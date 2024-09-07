@@ -1,0 +1,97 @@
+body{
+    background-color: #e6eff6;
+    font-family: 'Karla', sans;
+    display: grid;
+    place-items: center;
+  }
+div{
+
+}
+.con{
+  margin: auto;
+  width: 720px;
+  margin-top: 100px;
+  display: block;
+  border-radius: 5px;
+}
+.gran{
+  width: 100%;
+  background-color: #ffffff;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  margin: 0px;
+}
+.gran2{
+  display: inline-flex;
+  margin-top: -20px;
+}
+.pe1{
+  width: 50%;
+  background-color: #2bb3b1;
+  border-bottom-left-radius: 5px;
+
+}
+.pe2{
+  width: 50%;
+  background-color: #4abebd;
+  border-bottom-right-radius: 5px;
+}
+h1{
+  color:#2AB2AF;
+  padding: 40px 0px 10px 50px;
+}
+h2{
+  color:#C0DF34;
+  padding: 0px 0px 0px 50px
+}
+p{
+  color: #98A6BD;
+  padding: 0px 90px 50px 50px;
+  
+  font-size: 16px;
+  line-height: 30px;
+}
+.sec{
+  color: #fff;
+  padding: 20px 40px 0px 50px;
+}
+.sies{
+  display: inline-flex;
+  padding: 0px;
+  margin: -35px 0px 0px 50px;
+  text-align: center;
+  line-height: 0px;
+}
+.pre{
+  font-size: 50px;
+  padding: 0px;
+  color: #ffffff;
+  font-weight: bold;
+}
+.mo{
+  color: #ffffffa1;
+  padding: 33px 0px 0px 20px;
+}
+.do{
+  color: #fff;
+  padding: 0px;
+  margin: -30px 20px 0px 50px;
+  line-height: normal;
+  font-size: 16px;
+}
+.do2{
+  color: #fff;
+  padding: 0px 0px 0px 0px;
+  margin: 0px 70px 0px 50px;
+  line-height: 22px;
+  font-size: 14px;
+}
+.bot{
+  margin: 30px 50px 30px 50px;
+  padding: 15px 0px 15px 0px;
+  background-color: #C0DF34;
+  text-align: center;
+  color: #fff;
+  font-weight: bold;
+  border-radius: 5px;
+}
